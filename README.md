@@ -1,4 +1,4 @@
-# RO
+# Proyecto de la asignatura de Redes de Ordenadores del GETT de la Uvigo
 
 Implementación de un protocolo ARQ para el control de errores en la comunicación entre un cliente y servidor para la transmisión de cualquier tipo de archivo de la manera más eficiente posible.
 
